@@ -1,4 +1,4 @@
-"🚀 #Help Desk Insights Report 📊"
+"🚀 Help Desk Insights Report 📊"
 
 🔍 What's Inside:
 
@@ -9,6 +9,7 @@ Driven by a passion for data and a desire to understand the dynamics of support 
 I've crafted both a Dark and Light theme to enhance user experience and cater to diverse preferences.
 
 Live Dashboard Link : https://lnkd.in/gEcPDjwd
+
 LinkedIn Post Link: https://www.linkedin.com/posts/parth-mire-8094441b5_powerbi-figma-dashboarddesign-activity-7152313338616500224-U9m0?utm_source=share&utm_medium=member_desktop
 
 💡 Key Features:
