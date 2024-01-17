@@ -21,6 +21,16 @@ LinkedIn Post Link: https://www.linkedin.com/posts/parth-mire-8094441b5_powerbi-
 ✨Categorized Ticket Analysis
 ✨Track Requests from different Issue Categories
 
+Dashboard: 
+![LN](https://github.com/Parthmire19/Power-BI-Portfolio/assets/96012606/761a8a7f-d481-4ae4-9f43-6037fe00c78f)
+
+![LN (1)](https://github.com/Parthmire19/Power-BI-Portfolio/assets/96012606/4d877205-ef60-4e68-8d70-6ad596946cb0)
+
+![LN (2)](https://github.com/Parthmire19/Power-BI-Portfolio/assets/96012606/d383979c-c260-45fc-b231-417d93da8dc6)
+
+
+
+
 🚀 What's Next:
 This project is a labor of love. As I continue to explore and refine the dashboard, your feedback is invaluable. Join me on this data adventure, and let's make Help Desk Insights even better together!
 
