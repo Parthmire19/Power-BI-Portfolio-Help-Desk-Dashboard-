@@ -1,4 +1,4 @@
-"🚀 Help Desk Insights Report 📊"
+🚀 Help Desk Insights Report 📊
 
 🔍 What's Inside:
 
